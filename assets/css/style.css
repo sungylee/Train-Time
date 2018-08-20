@@ -1,0 +1,17 @@
+body {
+    background-image: url('../images/light-veneer.png');
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+}
+
+strong {
+   text-decoration-line: underline;
+}
+
+h1 {
+  letter-spacing: 4px;
+  font-size: 4em;
+  text-decoration: underline;
+}
+
